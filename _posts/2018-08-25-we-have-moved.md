@@ -1,5 +1,5 @@
 ---
-image: /img/ht-logo.jpg
+#image: /img/ht-logo.jpg
 ---
 
 # We've Moved!
