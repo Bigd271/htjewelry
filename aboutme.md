@@ -6,7 +6,7 @@ subtitle: Find out about Elizabeth Heatwole Thiessen
 
 # My History
 
-I grew up in lovely Peachtree City. 
+I grew up in lovely Peachtree City.
 
-![profile](/img/elizabeth.jpg)
+![profile](/img/elizabeth-small.webp)
 
