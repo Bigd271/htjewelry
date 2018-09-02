@@ -1,3 +1,7 @@
+---
+title: Day 1 Studio Build
+---
+
 # Day 1 Studio Build
 
 Today we started to build our studio! Finally, a place just for jewelry! 
