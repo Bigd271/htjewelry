@@ -7,6 +7,6 @@ image: /img/metalsmithing.jpeg
 
 We've since put the construction on hold while I knock out some new designs for the upcoming Shakerag Arts Festival. 
 
-![back-to-work](/img/back-to-work.jpg)
+![back-at-work](/img/back-at-work.jpg)
 
 Getting some new designs ready for the oven!
