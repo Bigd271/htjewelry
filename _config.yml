@@ -183,6 +183,7 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
+  - .git
 
 plugins:
   - jekyll-paginate
