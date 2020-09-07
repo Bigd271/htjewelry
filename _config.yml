@@ -37,16 +37,21 @@ avatar: "/img/elizabeth-avatar.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/img/ht-logo.jpg"
+#title-img: "/img/ht-logo.jpg"
+#title-img: "/img/HT_2020.hallmark.black.png"
+title-img: "/img/HT_2020.hallmark.black.dt.noback.svg.png"
 
 # --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
+##404040 Dark grey
+##F5F5F5 Light grey
+##FFFFFF White
+
 navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
+navbar-text-col: "#404040" 
 navbar-children-col: "#F5F5F5"
-#page-col: "#EBEED3"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
