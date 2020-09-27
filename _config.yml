@@ -28,9 +28,8 @@ description: 'Specializing in unique handcrafted jewelry: Necklaces, earrings, r
 navbar-links:
   Contact Us: "contact"
   Shop: "https://squareup.com/store/heatwole-thiessen-llc"
-  Social: "social"
   About Me: "aboutme"
-  Posts: "posts"
+  Sign Up: "https://squareup.com/outreach/jsfhSm/subscribe"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
