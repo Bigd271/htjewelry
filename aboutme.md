@@ -10,4 +10,4 @@ I grew up in lovely Peachtree City, aka The Bubble! After I graduated high schoo
 
 Feel free to [contact](https://heatwolethiessen.com/contact) me with any questions you may have. 
 
-<div align="center"> <p><img src="img/elizabeth-avatar.png" alt="profile"></p> </div>
+<p><div align="center"> <img src="img/elizabeth-avatar.png" alt="profile"></div></p>
